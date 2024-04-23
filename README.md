@@ -1,0 +1,1 @@
+Ce projet consiste en la création d'un jeu interactif utilisant la bibliothèque tkinter de Python pour l'interface graphique, ainsi que les bibliothèques random, PIL (Python Imaging Library), et pygame pour différentes fonctionnalités.
